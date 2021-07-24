@@ -1,0 +1,28 @@
+/* Start default css */
+body {
+  background-color: #f4f1fe;
+}
+h3 {
+  color: #8248f7;
+}
+
+/* End defaulr css */
+/* Start Header Section */
+.logo-img {
+  height: 40px;
+}
+/* Start Header Section */
+/* Start Main Section */
+.bg-color {
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+.player img {
+  width: 60px;
+}
+.player p {
+  font-weight: 500;
+  font-size: 20px;
+}
+/* End Main Section */
